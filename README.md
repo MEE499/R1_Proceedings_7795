@@ -1,13 +1,15 @@
 # R1_Proceedings_7795
 R1_Proceedings_7795
- ---
+
+---
  
- 
+---
+
 # Delliverables:
 
-## A Project Report \(\.pdf format\)
+## 001 - A Project Report \(\.pdf format\)
 ### HARD::COPY \(1 No.\)
-### Softcopy \(1No.\)
+### Soft::copy \(1No.\)
  - [x]  [links](req001.md)MEE499/R1/Requisite:  Introduction
  - [x]  [links](req001.md)MEE499/R1/Requisite:  Literature Review
  - [x]  [links](req001.md)MEE499/R1/Requisite:  Gaps in the Literature
@@ -19,7 +21,7 @@ R1_Proceedings_7795
  - [x]  [links](req001.md)MEE499/R1/Requisite:  Milestones in the project phase
  - [x]  [links](req001.md)MEE499/R1/Requisite:  References
 
-## A Project Presentation
+## 002 - A Project Presentation \(.pptx format\)
 ### Softcopy
 - [ ]  MEE499/R1/Requisite:  Introduction
 - [ ]  MEE499/R1/Requisite:  Literature Review
@@ -31,3 +33,33 @@ R1_Proceedings_7795
 - [ ]  MEE499/R1/Requisite:  Work to be done
 - [ ]  MEE499/R1/Requisite:  Milestones in the project phase
 - [ ]  MEE499/R1/Requisite:  References
+
+## 003 - A Project Diary
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia002.md)
+ - [ ] [Link_to_Diary_Entry](dia003.md)
+ - [ ] [Link_to_Diary_Entry](dia004.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
+ - [ ] [Link_to_Diary_Entry](dia001.md)
